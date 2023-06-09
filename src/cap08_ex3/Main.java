@@ -18,7 +18,6 @@ public class Main {
 		student.missingPoints();
 		
 		sc.close();
-
 	}
 
 }
